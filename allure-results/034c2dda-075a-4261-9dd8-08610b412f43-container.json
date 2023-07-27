@@ -1,0 +1,1 @@
+{"uuid":"034c2dda-075a-4261-9dd8-08610b412f43","name":"Suite Cucumber","children":["3a3d66f3-eb48-4f0a-a530-5a92a0540e7d"],"befores":[],"afters":[{"name":"afterSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690452620964,"stop":1690452620964}],"start":1690452552378,"stop":1690452620964}

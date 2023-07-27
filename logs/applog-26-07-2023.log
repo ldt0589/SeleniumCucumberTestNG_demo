@@ -1,0 +1,488 @@
+[INFO] 24-07-2023 14:00:12 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 14:00:13 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 14:00:20 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (ef5d6f4e74f6c99a7429defd571dcdd7)
+[INFO] 24-07-2023 14:00:27 [main] [LogUtils] - Open Admin Login Page URL: https://admin-dev.nowbookit.com/
+[INFO] 24-07-2023 14:00:27 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:27 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:29 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 14:00:30 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:30 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:31 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 14:00:31 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:33 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 14:00:34 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:35 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Admin Portal']
+[INFO] 24-07-2023 14:00:38 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:44 [main] [LogUtils] - Clicked on the element By.xpath: //td[text()='My Pizza Shop']
+[INFO] 24-07-2023 14:00:52 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:00:53 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Open Restaurant']
+[INFO] 24-07-2023 14:01:47 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:47 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:48 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:49 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 14:01:49 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:49 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:49 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 14:01:50 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:01:50 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 14:02:14 [main] [LogUtils] - Verify element visible By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 14:02:15 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:02:19 [main] [LogUtils] - Clicked on the element By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 14:02:26 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:02:40 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Booking')]
+[INFO] 24-07-2023 14:02:41 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:02:44 [main] [LogUtils] - Clicked on the element By.xpath: //md-select[@placeholder='Table']
+[INFO] 24-07-2023 14:02:45 [main] [LogUtils] - element.getText(): Auto
+[INFO] 24-07-2023 14:02:45 [main] [LogUtils] - element.getText(): T1 * C21 outside
+[INFO] 24-07-2023 14:02:47 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:02:50 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Customer')]
+[INFO] 24-07-2023 14:02:51 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:02:58 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:04 [main] [LogUtils] - Set text Automation39180 on By.xpath: //input[@name='firstName']
+[INFO] 24-07-2023 14:03:04 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:04 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:09 [main] [LogUtils] - Set text 423845803 on By.xpath: //input[@name='phone']
+[INFO] 24-07-2023 14:03:10 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:13 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Notes')]
+[INFO] 24-07-2023 14:03:14 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:14 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:15 [main] [LogUtils] - Set text NoteTest on By.xpath: //md-input-container[contains(.,'Booking Notes')]/div/textarea
+[INFO] 24-07-2023 14:03:15 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:17 [main] [LogUtils] - Clicked on the element By.xpath: //button[.='Save']
+[INFO] 24-07-2023 14:03:22 [main] [LogUtils] - Verify element present By.xpath: //booking-dialog-header//h2[text()='BOOKED']
+[INFO] 24-07-2023 14:03:22 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:03:27 [main] [LogUtils] - Clicked on the element By.xpath: //booking-dialog-header/following-sibling::div[contains(@class,'new-booking')]
+[INFO] 24-07-2023 14:03:28 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:04:48 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:04:49 [main] [LogUtils] - actualElementText: t1*c21outside
+[INFO] 24-07-2023 14:04:49 [main] [LogUtils] - expectedElementText: t1*c21outside
+[INFO] 24-07-2023 14:04:49 [main] [LogUtils] - Verify text of an element [Equals]: true
+[INFO] 24-07-2023 14:04:49 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:01 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item/div[@data-e2e-tab-label='details']
+[INFO] 24-07-2023 14:05:02 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:03 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:03 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:04 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Notes')]
+[INFO] 24-07-2023 14:05:04 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:05 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 14:05:05 [main] [LogUtils] - actualElementText: notetest
+[INFO] 24-07-2023 14:05:05 [main] [LogUtils] - expectedElementText: notetest
+[INFO] 24-07-2023 14:05:05 [main] [LogUtils] - Verify text of an element [Equals]: true
+[INFO] 24-07-2023 15:29:20 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:29:21 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:29:59 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:30:00 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:30:56 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:30:56 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:31:04 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (610189f8771428a6c15bd11725e58792)
+[INFO] 24-07-2023 15:31:37 [main] [LogUtils] - Open Admin Login Page URL: https://admin-dev.nowbookit.com/
+[INFO] 24-07-2023 15:31:37 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:38 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:41 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:31:41 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:41 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:43 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:31:43 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:45 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:31:47 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:31:47 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Admin Portal']
+[INFO] 24-07-2023 15:31:53 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:32:01 [main] [LogUtils] - Clicked on the element By.xpath: //td[text()='My Pizza Shop']
+[INFO] 24-07-2023 15:32:13 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:32:15 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Open Restaurant']
+[INFO] 24-07-2023 15:33:05 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:05 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:06 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:07 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:33:08 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:08 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:09 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:33:10 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:33:11 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:34:16 [main] [LogUtils] - Verify element visible By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:34:17 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:34:25 [main] [LogUtils] - Clicked on the element By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:34:35 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:34:38 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Booking')]
+[ERROR] 24-07-2023 15:36:19 [main] [LogUtils] - Element not exist. By.xpath: //md-select[@placeholder='Table']
+[INFO] 24-07-2023 15:42:25 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:42:26 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:42:35 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (a36184ec2cd6b000aaf5b9c909e7d767)
+[INFO] 24-07-2023 15:47:30 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:47:31 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:48:35 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:48:36 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:48:44 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (d88ee0a20fdeccc4b56a5111ba82a873)
+[INFO] 24-07-2023 15:49:00 [main] [LogUtils] - Open Admin Login Page URL: https://admin-dev.nowbookit.com/
+[INFO] 24-07-2023 15:49:00 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:00 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:03 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:49:03 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:04 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:05 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:49:06 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:08 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:49:10 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:10 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Admin Portal']
+[INFO] 24-07-2023 15:49:15 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:23 [main] [LogUtils] - Clicked on the element By.xpath: //td[text()='My Pizza Shop']
+[INFO] 24-07-2023 15:49:34 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:49:36 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Open Restaurant']
+[INFO] 24-07-2023 15:50:34 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:34 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:36 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:37 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:50:37 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:37 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:37 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:50:38 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:50:38 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:51:07 [main] [LogUtils] - Verify element visible By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:51:07 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:51:10 [main] [LogUtils] - Clicked on the element By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:51:18 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:51:22 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Booking')]
+[ERROR] 24-07-2023 15:53:05 [main] [LogUtils] - Element not exist. By.xpath: //md-select[@placeholder='Table']
+[INFO] 24-07-2023 15:55:57 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 24-07-2023 15:55:58 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 24-07-2023 15:56:05 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (85285208405163a4b8d8d97eca4eff1f)
+[INFO] 24-07-2023 15:56:17 [main] [LogUtils] - Open Admin Login Page URL: https://admin-dev.nowbookit.com/
+[INFO] 24-07-2023 15:56:17 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:18 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:21 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:56:21 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:21 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:25 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:56:25 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:27 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:56:29 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:29 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Admin Portal']
+[INFO] 24-07-2023 15:56:35 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:43 [main] [LogUtils] - Clicked on the element By.xpath: //td[text()='My Pizza Shop']
+[INFO] 24-07-2023 15:56:53 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:56:55 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Open Restaurant']
+[INFO] 24-07-2023 15:57:40 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:40 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:40 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:41 [main] [LogUtils] - Set text z.d.r.a.v.k.o.stojkoski@gmail.com on By.xpath: //input[@name='username']
+[INFO] 24-07-2023 15:57:41 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:41 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:42 [main] [LogUtils] - Set text ThePassword01##!! on By.xpath: //input[@name='password']
+[INFO] 24-07-2023 15:57:42 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:57:43 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Login']
+[INFO] 24-07-2023 15:58:10 [main] [LogUtils] - Verify element visible By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:58:10 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:58:14 [main] [LogUtils] - Clicked on the element By.xpath: //button[contains(@data-e2e,'walkIn')]
+[INFO] 24-07-2023 15:58:21 [main] [LogUtils] - element gets visible: true
+[INFO] 24-07-2023 15:58:23 [main] [LogUtils] - Clicked on the element By.xpath: //md-tab-item[contains(.,'Booking')]
+[ERROR] 24-07-2023 16:00:12 [main] [LogUtils] - Element not exist. By.xpath: //md-select[@placeholder='Table']
+[INFO] 26-07-2023 17:18:44 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:18:44 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:19:20 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (47568e0c9de72d8e5b077ffce25c4256)
+[INFO] 26-07-2023 17:19:30 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:19:30 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:21:27 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 17:21:46 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:21:47 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 17:23:22 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:23:23 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:23:30 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (529dd1b632d19cae741aba4060412705)
+[INFO] 26-07-2023 17:23:36 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:23:36 [main] [LogUtils] - element gets visible: true
+[ERROR] 26-07-2023 17:26:56 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 17:29:47 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:29:47 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:29:55 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (427f551ab2ac4d800bb8d6b0a3a44167)
+[INFO] 26-07-2023 17:30:04 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:31:12 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:31:13 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:31:20 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (3c16c6237ce2ceaa90ec2f8456015ade)
+[INFO] 26-07-2023 17:31:25 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:31:31 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 17:31:33 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 17:31:33 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:31:33 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:31:35 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 17:31:35 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 17:31:36 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 17:31:36 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 17:31:36 [main] [LogUtils] - buttonNextPage is Enable: {1}true
+[INFO] 26-07-2023 17:31:36 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 17:31:37 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 17:31:37 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 17:31:37 [main] [LogUtils] - buttonNextPage is Enable: {2}false
+[INFO] 26-07-2023 17:31:37 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 17:32:35 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:32:36 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:32:45 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (2df8afee5d2052b1d5997683f3a89d40)
+[INFO] 26-07-2023 17:32:53 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:39:13 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:39:18 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 17:39:19 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 17:39:29 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (cf86c9b681b5f398b14b447d2e4d1645)
+[INFO] 26-07-2023 17:39:34 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 17:40:09 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 17:40:11 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 17:40:11 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:40:12 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 17:40:13 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 17:40:13 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 17:40:15 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 18:06:41 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 18:06:42 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 18:06:51 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (4233289f3bfc953b76dd0ab3ed926160)
+[INFO] 26-07-2023 18:06:59 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 18:10:55 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 18:10:56 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 18:11:03 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (90699113fc8a3419ad298e65e37ee1a8)
+[INFO] 26-07-2023 18:11:08 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 18:13:07 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 21:17:00 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:17:01 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:17:14 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (7273d75d29de93356aa26fa19345b3ef)
+[INFO] 26-07-2023 21:17:26 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:17:27 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:17:34 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (30bd29e6508e0988ea7c0e8f7cb53bff)
+[INFO] 26-07-2023 21:17:40 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 21:17:40 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 21:17:42 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 21:17:45 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 21:17:45 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:17:46 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:17:47 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 21:17:47 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:17:49 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:17:49 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:17:49 [main] [LogUtils] - buttonNextPage is Enable: {1}true
+[INFO] 26-07-2023 21:17:49 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:17:50 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:17:50 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:17:50 [main] [LogUtils] - buttonNextPage is Enable: {2}false
+[INFO] 26-07-2023 21:17:50 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:29:13 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:29:14 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:29:23 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (5fff271e4822e1a09b76374a36717a24)
+[INFO] 26-07-2023 21:29:28 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 21:30:38 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:30:39 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:30:47 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (45961b7846d2b5b2bb9a170318061b9c)
+[INFO] 26-07-2023 21:30:52 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 21:30:52 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 21:30:54 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 21:30:58 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 21:30:58 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:30:59 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:31:00 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 21:31:00 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:31:02 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:31:02 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:31:02 [main] [LogUtils] - buttonNextPage is Enable: {1}true
+[INFO] 26-07-2023 21:31:02 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:31:03 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:31:03 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:31:03 [main] [LogUtils] - buttonNextPage is Enable: {2}false
+[INFO] 26-07-2023 21:31:03 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:31:48 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:31:49 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:31:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (8a851cc20308a9bb40722254506f088f)
+[INFO] 26-07-2023 21:32:02 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 21:32:02 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 21:32:04 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 21:32:07 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 21:32:08 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:32:08 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:32:10 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 21:32:10 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:32:11 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - buttonNextPage is Enable: {1}true
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - buttonNextPage is Enable: {2}false
+[INFO] 26-07-2023 21:32:12 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:36:08 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 21:36:08 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 21:36:17 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (44f5891e00db39fb2892026d1740e755)
+[INFO] 26-07-2023 21:36:22 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 21:36:23 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 21:36:25 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 21:36:28 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 21:36:29 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:36:29 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 21:36:30 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 21:36:30 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:36:32 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:36:32 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:36:32 [main] [LogUtils] - buttonNextPage is Enable: {1}true
+[INFO] 26-07-2023 21:36:32 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 21:36:33 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 21:36:33 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 21:36:33 [main] [LogUtils] - buttonNextPage is Enable: {2}false
+[INFO] 26-07-2023 21:36:33 [main] [LogUtils] - element gets enable: false
+[INFO] 26-07-2023 23:03:45 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:03:54 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (dbabcf694c8f9ade94b624735c9a18ed)
+[INFO] 26-07-2023 23:04:27 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:04:27 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:04:36 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (cf16c54d0760aa3d710b873f0075a9f4)
+[INFO] 26-07-2023 23:04:42 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:04:42 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:04:44 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:04:47 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:04:48 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:04:48 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:04:49 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:04:49 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:04:50 [main] [LogUtils] - Cell.getText(): Category 1,Category 3
+[INFO] 26-07-2023 23:06:20 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:06:21 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:06:29 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (84901d98c863ee4f38840f9cb15c9671)
+[INFO] 26-07-2023 23:06:34 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:06:35 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:06:37 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:06:40 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:06:41 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:06:41 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:06:42 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:06:42 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:06:44 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 23:07:30 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:07:30 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:07:38 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (a781ff341cbfef4389555c4231b12d45)
+[INFO] 26-07-2023 23:07:42 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:07:43 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:07:44 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:07:48 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:07:49 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:07:49 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:07:50 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:07:50 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:07:50 [main] [LogUtils] - Cell.getText(): Category 1,Category 3
+[INFO] 26-07-2023 23:16:29 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:16:30 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:16:39 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (310d33f1b051877abe636a85a6d830c3)
+[INFO] 26-07-2023 23:16:44 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:16:45 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:16:47 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:16:50 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:16:50 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:16:51 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:16:52 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:16:52 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:16:52 [main] [LogUtils] - Cell.getText(): Category 1,Category 3
+[INFO] 26-07-2023 23:32:52 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:32:52 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:33:01 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)
+[INFO] 26-07-2023 23:33:07 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:33:07 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:33:09 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:33:12 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:33:13 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:33:13 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [0]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [1]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [2]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [3]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [4]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [5]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [6]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [7]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [8]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:14 [main] [LogUtils] - [9]Cell.getText(): [[ChromeDriver: chrome on mac (d1996121a348863ebd0bcc51a10f1be9)] -> xpath: //div[@role='cell' and @data-field='categories']]
+[INFO] 26-07-2023 23:33:16 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 23:34:42 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:34:43 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:34:53 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (bc668c46401e8853f67d4308d991ebd0)
+[INFO] 26-07-2023 23:34:58 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:34:58 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:35:00 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:35:03 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:35:04 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:35:04 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:35:06 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:35:06 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:35:07 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
+[INFO] 26-07-2023 23:37:12 [main] [Utils] - [TestNG] Running:
+  /Users/thangle/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO] 26-07-2023 23:37:13 [main] [LogUtils] - Warning !! Can not Load All File.
+[INFO] 26-07-2023 23:37:22 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on mac (09afe9f5155f63571ea1b2ca2464841b)
+[INFO] 26-07-2023 23:37:27 [main] [LogUtils] - Open Test Page URL: https://lcjg-betalabs.github.io/test-site-qa/products/
+[INFO] 26-07-2023 23:37:27 [main] [LogUtils] - Hover on element By.xpath: //div[@class='MuiDataGrid-columnHeaderTitle' and text()='Categories']
+[INFO] 26-07-2023 23:37:29 [main] [LogUtils] - Clicked on the element By.xpath: //div[text()='Categories']/../following::div[1]/button
+[INFO] 26-07-2023 23:37:32 [main] [LogUtils] - Clicked on the element By.xpath: //li[text()='Filter']
+[INFO] 26-07-2023 23:37:32 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:37:33 [main] [LogUtils] - element gets visible: true
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - Set text Category 4 on By.xpath: //input[@placeholder='Filter value']
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - element gets enable: true
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [0]Cell.getText(): Category 1,Category 3
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [1]Cell.getText(): Category 2,Category 1
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [2]Cell.getText(): Category 1
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [3]Cell.getText(): Category 3,Category 2
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [4]Cell.getText(): Category 4
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [5]Cell.getText(): Category 4,Category 2
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [6]Cell.getText(): Category 3,Category 4
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [7]Cell.getText(): Category 1
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [8]Cell.getText(): Category 1
+[INFO] 26-07-2023 23:37:34 [main] [LogUtils] - [9]Cell.getText(): Category 1
+[INFO] 26-07-2023 23:37:36 [main] [LogUtils] - Clicked on the element By.xpath: //button[@title='Next page']
