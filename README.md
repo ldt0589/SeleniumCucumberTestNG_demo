@@ -29,7 +29,7 @@
 
 **1. Run single/parallel the test case:**
 
-- Run Cucumber TestRunner from **src/test/java/nowbookit/com/runners**
+- Run Cucumber TestRunner from **src/test/java/demo/com/runners**
 - Run Feature file (**src/test/resources/features/**)
 - Run Feature in suite XML (**src/test/resources/suites/**)
 - Run Feature from Maven pom.xml file
@@ -46,7 +46,7 @@
 **4. Write Log to file**
 
 - Call class: Log.info , Log.pass, Log.error,... (**Log** is a custom global class from Log4j2)
-  (**_import nowbookit.com.utils.Log.java_**)
+  (**_import demo.com.utils.Log.java_**)
 
 **5. Record Screenshot**
 
@@ -59,14 +59,14 @@
 
 **6. Read data test from Excel file**
 
-- Create function with annotaion **DataSupplier** on **_src/main/java/nowbookit/com/utils/DataProviderUtils.java_**
+- Create function with annotaion **DataSupplier** on **_src/main/java/demo/com/utils/DataProviderUtils.java_**
 - Call the name of **DataSupplier** above in the test cases as DataProvider of TestNG
 - Read excel with Map and Hashtable
 
 **7. Base function in the package**
 
-- **_src/main/java/nowbookit/com/utils_**
-- **_src/main/java/nowbookit/com/helpers_**
+- **_src/main/java/demo/com/utils_**
+- **_src/main/java/demo/com/helpers_**
 
 **8. Read data test from JSON file**
 
@@ -141,7 +141,7 @@
  ┃ ┃ ┃ ┗ 📜log4j2.properties
  ┃ ┗ 📂test
  ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┗ 📂nowbookit
+ ┃ ┃ ┃ ┗ 📂demo
  ┃ ┃ ┃ ┃ ┗ 📂com
  ┃ ┃ ┃ ┃ ┃ ┣ 📂common
  ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜BaseTest.java
