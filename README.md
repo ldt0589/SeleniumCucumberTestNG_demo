@@ -81,11 +81,9 @@
 **10. Call test case:**
 
 - Run test case Gherkin-Cucumber: 
-    => src/test/resources/features/TC01_WalkinBooking.feature
-    => src/test/resources/features/TC02_WidgetBooking.feature
+    => src/test/resources/features/ProductManagement.feature
 - Run test case TestNG: 
     => src/test/resources/suites/SuiteFeatureAll.xml
-    => src/test/resources/features/TC01_WalkinBooking.feature
 - Or run with maven in **pom.xml** file:  
     => ***mvn clean test***
 
